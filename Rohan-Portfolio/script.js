@@ -16,7 +16,7 @@ navLinks.querySelectorAll("a").forEach((link) => {
 document.getElementById("year").textContent = new Date().getFullYear();
 
 // Replace this with your real public contact email before publishing.
-const PORTFOLIO_EMAIL = "your-email@example.com";
+const PORTFOLIO_EMAIL = "thurkapallyrohan@gmail.com";
 
 document.getElementById("copyEmail").addEventListener("click", async () => {
   const note = document.getElementById("contactNote");
